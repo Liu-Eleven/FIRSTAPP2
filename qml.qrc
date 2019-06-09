@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>RES/main.qml</file>
+        <file>RES/MyButton.qml</file>
+        <file>RES/MyChildItem.qml</file>
+        <file>RES/MyContent.qml</file>
+        <file>RES/MyItem.qml</file>
+        <file>RES/MyItemRect.qml</file>
+        <file>RES/MyRect.qml</file>
+        <file>RES/MyTitle.qml</file>
+        <file>RES/MyWindow.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>RES/icon.ico</file>
+        <file>RES/buttonrect.png</file>
+        <file>RES/buttonrecthover.png</file>
+        <file>RES/buttonrectpress.png</file>
+        <file>RES/end.png</file>
+        <file>RES/item.png</file>
+        <file>RES/itemball.png</file>
+        <file>RES/itemballhover.png</file>
+        <file>RES/itemballpress.png</file>
+        <file>RES/itemhover.png</file>
+        <file>RES/itempress.png</file>
+        <file>RES/itemrect.png</file>
+        <file>RES/itemrecttitle.png</file>
+        <file>RES/myitemrect.png</file>
+        <file>RES/myrect.png</file>
+        <file>RES/start.png</file>
+        <file>RES/title.png</file>
+        <file>RES/ico.png</file>
+        <file>RES/wait.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>RES/click.wav</file>
+        <file>RES/hover.wav</file>
+        <file>RES/rotation.wav</file>
+        <file>RES/backgroundmusic.mp3</file>
+    </qresource>
+    <qresource prefix="/xml">
+        <file>RES/setting.xml</file>
+    </qresource>
+</RCC>
